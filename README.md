@@ -1,4 +1,4 @@
-# hf-fabcar-sample
+fabcar-sample
 Car Factory repository to play with chaincode lifecycle in Hyperledger Fabric network
 
 [🚀 Link to Tutorial - Deploying Fabcar chaincode in Hyperledger Fabric test network](https://diegoescalonaro.notion.site/Deploying-fabcar-chaincode-in-Hyperledger-Fabric-test-network-aec1a348ef6041c290886d86e516d23e)
