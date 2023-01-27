@@ -6,6 +6,12 @@ Car Factory repository to play with chaincode lifecycle in Hyperledger Fabric ne
 [🌐 Link to Hyperledger Fabric docs](https://hyperledger-fabric.readthedocs.io/en/latest/index.html)
 
 
+## Pre-installation
+
+````
+./install-fabric.sh docker binary
+````
+
 ## Test network 💻
 
 The [Fabric test network](test-network) in the samples repository provides a Docker Compose based test network with two
